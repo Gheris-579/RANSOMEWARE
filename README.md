@@ -1,0 +1,2 @@
+# RANSOMEWARE
+_|G.M.R|_ 
