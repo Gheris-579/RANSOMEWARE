@@ -1,3 +1,4 @@
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 # RANSOMEWARE
   _|G.M.R|_ V1.0.0
 
