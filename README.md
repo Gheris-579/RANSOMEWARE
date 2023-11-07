@@ -11,6 +11,14 @@
   <p> This Ransomware musn't be used to harm/threat/hurt other person's computer. It's purpose is only to share knowledge and awareness about Malware/Cryptography/Operating Systems/Programming. This ransomware made for learning and awareness about security/cryptography. </p>
 
 <hr/>
+<h1>What Does "Military Grade Encryption" Mean?</h1>
+<spam>
+ Dashlane, a password manager that has advertised its "military-grade encryption," explains what this term means on its blog. According to Dashlane, military-grade encryption means AES-256 encryption. That's the Advanced Encryption Standard with a 256-bit key size.
+
+As Dashlane's blog points out, AES-256 is "the first publicly accessible and open cipher approved by the National Security Agency (NSA) to protect information at a "Top Secret" level."
+
+AES-256 differs from AES-128 and AES-192 by having a larger key size. That means a bit more processing power used for performing the encryption and decryption, but all that extra work should make AES-256 even harder to crack.
+</spam>
 <h1>ScreenShot: </h1>
 
 ![Screenshot 2023-11-07 005620](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/b4d0b829-ef36-4d8c-b371-132485150246)
