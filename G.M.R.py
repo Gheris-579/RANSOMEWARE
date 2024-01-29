@@ -1,8 +1,7 @@
 from tkinter import *
 from PIL import ImageTk, Image
 import tkinter as tk
-import tkinter
-import os
+import tkinter
 import sys
 import webbrowser
 import pyAesCrypt
