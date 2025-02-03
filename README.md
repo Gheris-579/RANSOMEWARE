@@ -5,6 +5,11 @@
 
 
 <h1>RANSOMEWARE</h1>
+
+
+![68747470733a2f2f692e706f7374696d](https://github.com/user-attachments/assets/58ac1d2a-1004-4b1c-b692-ac0bcec821e3)
+
+
  
   ![__G M R__-V1 0 0-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/86d8d286-919c-4add-bd9c-8fbbe2bfe84f)
 
@@ -47,3 +52,14 @@ AES-256 differs from AES-128 and AES-192 by having a larger key size. That means
   <li>pip install auto-py-to-exe</li>
   <li>auto-py-to-exe</li>
 </ul>
+
+
+<h2>Issues and Suggestions</h2>
+
+
+![issues](https://github.com/user-attachments/assets/47ebc8b1-f5e5-4402-8887-1027a114c5ff)
+
+ <p>If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our Issues section.
+Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.
+Thank you for your contribution!</p>
+
