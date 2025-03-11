@@ -26,7 +26,8 @@ AES-256 differs from AES-128 and AES-192 by having a larger key size. That means
 </spam>
 <h1>ScreenShot: </h1>
 
-![Screenshot 2023-11-07 005620](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/b4d0b829-ef36-4d8c-b371-132485150246)
+![image](https://github.com/user-attachments/assets/6550949d-41f1-4a5f-9b63-8532dab2e1b8)
+
 
   <hr/>
   <h1> Environement:</h1>
