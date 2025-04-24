@@ -1,4 +1,4 @@
- ![RANSOMEWARE-PYTHON-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/c6be4698-ec5b-4102-996f-69141bff6764) ![MEDA WITH -GHERIS-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/8680eb64-f902-496d-8d48-1b4239340c40) ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)    
+![diagram-export-24-04-2025-17_48_11](https://github.com/user-attachments/assets/438fad08-df20-4b29-bba4-d9299ae8fb32) ![RANSOMEWARE-PYTHON-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/c6be4698-ec5b-4102-996f-69141bff6764) ![MEDA WITH -GHERIS-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/8680eb64-f902-496d-8d48-1b4239340c40) ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)    
 
 
 
@@ -24,6 +24,15 @@ As Dashlane's blog points out, AES-256 is "the first publicly accessible and ope
 
 AES-256 differs from AES-128 and AES-192 by having a larger key size. That means a bit more processing power used for performing the encryption and decryption, but all that extra work should make AES-256 even harder to crack.
 </spam>
+
+
+<h1>Diagram</h1>
+
+
+![Uploading diagram-export-24-04-2025-17_48_11.svg…]()
+
+
+
 <h1>ScreenShot: </h1>
 
 ![image](https://github.com/user-attachments/assets/6550949d-41f1-4a5f-9b63-8532dab2e1b8)
